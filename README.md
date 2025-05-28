@@ -2,8 +2,7 @@
 
 ## About Me
 - 🌍 From **Kota, Rajasthan**, currently pursuing **B.Tech in Computer Science** at **VIT Bhopal** (Class of 2026).  
-- 🎓 **Lead of the Coding Department** at the Robotics Club, VIT Bhopal, where I work on cutting-edge robotics and distributed systems.  
-- 💻 IT Director of an **e-commerce company**, focusing on modernizing cybersecurity strategies for scaling businesses.  
+- 🎓 **Lead of the Coding Department** at the Robotics Club, VIT Bhopal, where I work on cutting-edge robotics and distributed systems.    
 - 👀 Interested in **AI/ML**, **web development**, **robotics**, and **cybersecurity**.  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun Fact: I love integrating technology from multiple domains into real-world applications—like using machine learning in robotic automation!  
