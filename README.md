@@ -111,18 +111,19 @@ class SouravSubham:
 
 ---
 
-<!-- PROJECT 2: MployCheck -->
+<!-- PROJECT 2: Research Agent -->
 <div align="center">
 
-### 🔍 MployCheck &nbsp; — &nbsp; *Intern Challenge: Smart Employment Verifier*
+### 🔬 Research Agent &nbsp; — &nbsp; *Autonomous Multi-Agent Research Pipeline*
 
-[![GitHub Repo](https://img.shields.io/badge/⭐%20View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sourav93-subh/mploychek-intern-challenge)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00D4FF?style=for-the-badge&logoColor=black)](https://research-agent-9pwhw1mm1-sourav93-subhs-projects.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/⭐%20View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sourav93-subh/research-agent)
 
 </div>
 
 ```
-✅  A full-featured employment verification platform built as part of an
-    internship challenge — demonstrating real-world engineering under pressure.
+🤖  Autonomous multi-agent research pipeline powered by LangGraph + Groq —
+    plans, searches in parallel, critiques, and synthesizes reports in ~10–15s.
 ```
 
 <table>
@@ -130,23 +131,24 @@ class SouravSubham:
 <td width="60%">
 
 **✨ What makes it special:**
-- 🏢 **Employer & Employee** role-based dashboards
-- 📋 Employment record submission & **verification workflows**
-- 🔒 Secure authentication with role-based access control
-- 📊 Clean, data-driven UI for managing verification requests
-- 🚀 Built end-to-end — from DB schema to frontend — solo
-- ⏱️ Delivered as a **timed engineering challenge**
+- 🧠 **Planner agent** breaks any query into focused parallel sub-tasks
+- 🔍 **Parallel Searcher** runs all sub-queries simultaneously via Tavily
+- 🔄 **Critic agent** validates quality & triggers automatic retries
+- 📝 **Synthesizer** writes structured reports with citations & sources
+- ⚡ Async **FastAPI** backend with job-queue pattern
+- 🚀 Full pipeline completes in **~10–15 seconds**
 
 </td>
 <td width="40%" align="center">
 
 **🛠️ Tech Stack**
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square&logo=groq&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
@@ -154,7 +156,7 @@ class SouravSubham:
 
 <div align="center">
 
-> 🔗 [GitHub →](https://github.com/Sourav93-subh/mploychek-intern-challenge)
+> 🔗 **Try it live:** [research-agent-9pwhw1mm1-sourav93-subhs-projects.vercel.app](https://research-agent-9pwhw1mm1-sourav93-subhs-projects.vercel.app/) &nbsp;|&nbsp; [GitHub →](https://github.com/Sourav93-subh/research-agent)
 
 </div>
 
