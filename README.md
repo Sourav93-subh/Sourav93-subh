@@ -156,7 +156,7 @@ class SouravSubham:
 
 <div align="center">
 
-> 🔗 **Try it live:** [research-agent-9pwhw1mm1-sourav93-subhs-projects.vercel.app](https://research-agent-9pwhw1mm1-sourav93-subhs-projects.vercel.app/) &nbsp;|&nbsp; [GitHub →](https://github.com/Sourav93-subh/research-agent)
+> 🔗 **Try it live:** [research-agent-9pwhw1mm1-sourav93-subhs-projects.vercel.app](https://research-agent-liard-ten.vercel.app) &nbsp;|&nbsp; [GitHub →](https://github.com/Sourav93-subh/research-agent)
 
 </div>
 
