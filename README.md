@@ -116,7 +116,7 @@ class SouravSubham:
 
 ### 🔬 Research Agent &nbsp; — &nbsp; *Autonomous Multi-Agent Research Pipeline*
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00D4FF?style=for-the-badge&logoColor=black)](https://research-agent-9pwhw1mm1-sourav93-subhs-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00D4FF?style=for-the-badge&logoColor=black)](https://research-agent-liard-ten.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/⭐%20View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sourav93-subh/research-agent)
 
 </div>
